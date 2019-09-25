@@ -1,0 +1,38 @@
+{
+  "name": "BabaKBeluRCom",
+  "short_name": "BabaK BeluR",
+  "start_url": "https://www.babakbelur.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#0000ff",
+  "description": "BabaK BeluR Artikel Mengenai Tips Blogger, Fotografi, Resep Masakan, Resep Makanan, Kue Kering, Religi, Ebook, Destinasi Traveling, dan Wisata Serta Ide Kreatif",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-4TwaQ6him6s/XYZfytYKTOI/AAAAAAAACho/sKD_iA4hfgUl_G-qG8RYD9hR3RPk0UAKgCLcBGAsYHQ/s48/Logo-BabaKBeluRCom.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4TwaQ6him6s/XYZfytYKTOI/AAAAAAAACho/sKD_iA4hfgUl_G-qG8RYD9hR3RPk0UAKgCLcBGAsYHQ/s72/Logo-BabaKBeluRCom.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4TwaQ6him6s/XYZfytYKTOI/AAAAAAAACho/sKD_iA4hfgUl_G-qG8RYD9hR3RPk0UAKgCLcBGAsYHQ/s96/Logo-BabaKBeluRCom.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4TwaQ6him6s/XYZfytYKTOI/AAAAAAAACho/sKD_iA4hfgUl_G-qG8RYD9hR3RPk0UAKgCLcBGAsYHQ/s144/Logo-BabaKBeluRCom.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4TwaQ6him6s/XYZfytYKTOI/AAAAAAAACho/sKD_iA4hfgUl_G-qG8RYD9hR3RPk0UAKgCLcBGAsYHQ/s168/Logo-BabaKBeluRCom.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4TwaQ6him6s/XYZfytYKTOI/AAAAAAAACho/sKD_iA4hfgUl_G-qG8RYD9hR3RPk0UAKgCLcBGAsYHQ/s192/Logo-BabaKBeluRCom.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-4TwaQ6him6s/XYZfytYKTOI/AAAAAAAACho/sKD_iA4hfgUl_G-qG8RYD9hR3RPk0UAKgCLcBGAsYHQ/s5120/Logo-BabaKBeluRCom.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
